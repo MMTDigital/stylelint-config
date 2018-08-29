@@ -1,4 +1,8 @@
-# mmtdigital/stylelint-config
+# mmtdigital/stylelint-config 
+
+![MMT-Digital](https://img.shields.io/badge/MMT-Digital-red.svg)
+[![NPM version][npm-image]][npm-url]
+
 A standard set of rules for style linting at MMT Digital
 
 ## Usage
@@ -10,3 +14,6 @@ To lint your code, either use the stylelint CLI or add stylelint to your editor 
 
 ## Contribution & Changes
 If you disagree with a rule or would like to suggest a change, please raise a Github issue
+
+[npm-image]: https://img.shields.io/npm/v/@mmtdigital/stylelint-config.svg
+[npm-url]: https://www.npmjs.com/package/@mmtdigital/stylelint-config

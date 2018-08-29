@@ -1,6 +1,6 @@
 {
   "name": "@mmtdigital/stylelint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MMT Digital's base stylelint config",
   "keywords": [
     "mmt",
@@ -9,13 +9,13 @@
   ],
   "author": "MMT Digital",
   "license": "MIT",
-  "homepage": "https://github.com/MMTDigital/stylelint-config-mmtdigital",
+  "homepage": "https://github.com/mmtdigital/stylelint-config",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MMTDigital/stylelint-config-mmtdigital"
+    "url": "git://github.com/mmtdigital/stylelint-config"
   },
   "bugs": {
-    "url": "https://github.com/MMTDigital/stylelint-config-mmtdigital/issues"
+    "url": "https://github.com/mmtdigital/stylelint-config/issues"
   },
   "main": "index.js",
   "files": [
