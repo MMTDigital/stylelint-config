@@ -1,0 +1,47 @@
+{
+  "name": "stylelint-config-mmtdigital",
+  "version": "0.0.1",
+  "description": "MMT Digital's base stylelint config",
+  "keywords": [
+    "MMT Digital Stylelint"
+  ],
+  "author": "MMT Digital",
+  "license": "MIT",
+  "homepage": "https://github.com/MMTDigital/stylelint-config-mmtdigital",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MMTDigital/stylelint-config-mmtdigital"
+  },
+  "bugs": {
+    "url": "https://github.com/MMTDigital/stylelint-config-mmtdigital/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.0",
+    "eslint-config-mmtdigital": "^8.0.0",
+    "npm-run-all": "^4.0.0",
+    "npmpub": "^4.0.1",
+    "stylelint": "^9.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  },
+  "scripts": {
+    "dry-release": "npmpub --dry --verbose",
+    "lint:js": "eslint . --ignore-path .gitignore",
+    "lint": "npm-run-all --parallel lint:*",
+    "pretest": "npm run lint",
+    "release": "npmpub"
+  },
+  "eslintConfig": {
+    "extends": [
+      "stylelint"
+    ]
+  }
+}
