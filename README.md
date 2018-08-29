@@ -1,9 +1,9 @@
-# stylelint-config-mmtdigital
+# mmtdigital/stylelint-config
 A standard set of rules for style linting at MMT Digital
 
 ## Usage
 ```bash
-npm i stylelint stylelint-config-mmtdigital --save-dev
+npm i stylelint @mmtdigital/stylelint-config --save-dev
 ```
 
 To lint your code, either use the stylelint CLI or add stylelint to your editor (or do both). More here: https://stylelint.io/#getting-started
