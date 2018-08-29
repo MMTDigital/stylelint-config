@@ -1,9 +1,11 @@
 {
-  "name": "stylelint-config-mmtdigital",
-  "version": "0.0.1",
+  "name": "@mmtdigital/stylelint-config",
+  "version": "0.1.0",
   "description": "MMT Digital's base stylelint config",
   "keywords": [
-    "MMT Digital Stylelint"
+    "mmt",
+    "mmt digital",
+    "stylelint"
   ],
   "author": "MMT Digital",
   "license": "MIT",
