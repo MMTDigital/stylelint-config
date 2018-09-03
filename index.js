@@ -25,6 +25,8 @@ module.exports = {
           'if',
           'else',
           'each',
+          'for',
+          'while',
           'mixin',
           'include',
           'return',
