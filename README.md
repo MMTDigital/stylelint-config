@@ -5,7 +5,7 @@
 
 A standard set of rules for style linting at MMT Digital
 
-## Usage
+## Installation
 ```bash
 npm i stylelint @mmtdigital/stylelint-config --save-dev
 ```
