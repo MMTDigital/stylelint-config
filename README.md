@@ -10,6 +10,14 @@ A standard set of rules for style linting at MMT Digital
 npm i stylelint @mmtdigital/stylelint-config --save-dev
 ```
 
+## Configuration
+Include the following in your package.json
+```json
+  "stylelint": {
+    "extends": "@mmtdigital/stylelint-config"
+  }
+```
+
 To lint your code, either use the stylelint CLI or add stylelint to your editor (or do both). More here: https://stylelint.io/#getting-started
 
 ## Contribution & Changes
