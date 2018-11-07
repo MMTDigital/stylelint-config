@@ -34,7 +34,8 @@ module.exports = {
           'at-root',
           'debug',
           'warn',
-          'error'
+          'error',
+          'content'
         ]
       }
     ]
