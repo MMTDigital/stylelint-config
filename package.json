@@ -1,6 +1,6 @@
 {
   "name": "@mmtdigital/stylelint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MMT Digital's base stylelint config",
   "keywords": [
     "mmt",
