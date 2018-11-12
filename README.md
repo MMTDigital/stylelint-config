@@ -7,5 +7,5 @@ All documentation for MMT repos and npm packages is located here: http://docs.mm
 ## Contribution & Changes
 If you would like to suggest a change to a linting rule, please raise a Github issue here: https://github.com/MMTDigital/stylelint-config/issues
 
-[npm-image]: https://img.shields.io/npm/v/@mmtdigital/stylelint-config.svg
+[npm-image]: https://img.shields.io/npm/v/@mmtdigital/stylelint-config.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@mmtdigital/stylelint-config
