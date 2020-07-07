@@ -30,7 +30,7 @@
     "stylelint": "^13.6.1"
   },
   "peerDependencies": {
-    "stylelint": ">=9.2.0"
+    "stylelint": ">=13.6.1"
   },
   "scripts": {
     "dry-release": "npmpub --dry --verbose --no-release",
