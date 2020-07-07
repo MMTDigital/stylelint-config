@@ -35,7 +35,9 @@ module.exports = {
           'debug',
           'warn',
           'error',
-          'content'
+          'content',
+          'use',
+          'forward'
         ]
       }
     ]
